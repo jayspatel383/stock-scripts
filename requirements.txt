@@ -124,4 +124,4 @@ websocket-client==1.8.0
 widgetsnbextension==4.0.10
 wsproto==1.2.0
 python-dotenv
-supabase-py @ git+https://github.com/supabase-community/supabase-py
+supabase 
